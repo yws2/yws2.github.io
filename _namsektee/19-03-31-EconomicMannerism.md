@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 author: namsektee
 title: The Wealthy and the Poor
 ---
