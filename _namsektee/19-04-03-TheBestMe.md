@@ -13,5 +13,5 @@ I will be a leading figure in industry.
 My house will be an open space for innovation; it will be a host for the betterment of humanity.  
 나의 집은 이노베이션을 위한 열린 공간일 것이다. 인류의 향상을 위한 주최가 될 것이다. 
 
-I will engineer solutions for real-world problems in various fields.
-다양한 분야의 현장에서 존재하는 문제들을 해결 할 수 있는 방법들을 제시할 것이다.  
+I will engineer solutions for real-world problems in various fields.  
+다양한 분야의 현장에서 존재하는 문제들을 해결 할 수 있는 방법들을 제시할 것이다. 
