@@ -1,0 +1,22 @@
+---
+layout: default
+title: birdkiss's
+---
+
+<div class="wrapper flex-container">
+    <div>
+        <h1>birdkiss's</h1>
+    </div>
+    <div>
+        <ul>
+            {% assign sorted = (site.birdkiss | sort: 'data') | reverse %}
+            {% for item in sorted %}
+            <li>
+                <h4> {{item.date | date_to_string }}, <a style="color:rgb(12, 12, 12)"
+                        href="{{ item.url }}">{{ item.title }}</a></h4>
+                <!-- <p>{{ post.content | markdownify }}</p> -->
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>

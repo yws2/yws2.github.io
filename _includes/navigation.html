@@ -1,0 +1,12 @@
+<div class="flex-container-row">
+    <div>
+        <nav>
+            {% for item in site.data.navigation %}
+            <a class="wrapper" href="{{ item.link }}" style="padding: 10px">
+                {{ item.name }}
+            </a>
+            {% endfor %}
+        </nav>
+    </div>
+
+</div>
