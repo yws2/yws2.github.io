@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: namsektee
 author: namsektee
 title: The Best Me
 ---

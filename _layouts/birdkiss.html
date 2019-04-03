@@ -11,10 +11,12 @@ layout: default
     <div>
         <h2>Blog Posts</h2>
         <ul>
-            {% for post in site.posts %}
+            {% assign sorted = (site.birdkiss | sort: 'data') | reverse %}
+            {% for item in sorted %}
             <li>
-                <h4>{{ post.date | date_to_string }}, <a style="color:rgb(12, 12, 12)"
-                        href="{{ post.url }}">{{ post.title }}</a></h4>
+                <h4> {{item.date | date_to_string }}, <a style="color:rgb(12, 12, 12)"
+                        href="{{ item.url }}">{{ item.title }}</a></h4>
+                <!-- <p>{{ post.content | markdownify }}</p> -->
             </li>
             {% endfor %}
         </ul>
