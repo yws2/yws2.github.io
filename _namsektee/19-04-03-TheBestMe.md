@@ -15,3 +15,9 @@ My house will be an open space for innovation; it will be a host for the betterm
 
 I will engineer solutions for real-world problems in various fields.  
 다양한 분야의 현장에서 존재하는 문제들을 해결 할 수 있는 방법들을 제시할 것이다. 
+
+Everyday, I will produce effort for a solution no matter how small: One Solution Daily  
+사소하더라도 어느 문제에 대한 솔류션을 하루에 최소 하나라도 찾기 위해 노력을 할 것이다.  
+
+I will attain the highest physical and mental state.  
+최상의 신체와 정신 상태를 이루게 될 것이다. 
