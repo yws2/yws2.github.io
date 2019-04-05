@@ -20,4 +20,4 @@ Everyday, I will produce effort for a solution no matter how small: One Solution
 사소하더라도 어느 문제에 대한 솔류션을 하루에 최소 하나라도 찾기 위해 노력을 할 것이다.  
 
 I will attain the highest physical and mental state.  
-최상의 신체와 정신 상태를 이루게 될 것이다. 
+최상의 신체와 정신 상태를 이룰 것이다. 
