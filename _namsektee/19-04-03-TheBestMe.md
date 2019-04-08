@@ -21,3 +21,6 @@ Everyday, I will produce effort for a solution no matter how small: One Solution
 
 I will attain the highest physical and mental state.  
 최상의 신체와 정신 상태를 이룰 것이다. 
+
+I will always strive for excellence in whatever I do. 
+무엇을 하든 우수한 성적을 내기 위해 항상 노력을 할 것이다. 
