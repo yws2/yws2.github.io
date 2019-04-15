@@ -57,14 +57,6 @@
     .flex-container > div {
       width: 100%;
     }
-    
-    .github-mark {
-        display: none;
-    }
-
-    .cherry-blossom {
-        display: none;
-    }
   }
 
 @media only screen and (min-width:600px) {
@@ -73,17 +65,19 @@
         width: 40vw;
     }
 
+    
+}
+
+@media only screen and (max-width:320px) {
+    .flex-container > div {
+        width:320px;
+    }
+
     .github-mark {
         display: none;
     }
 
     .cherry-blossom {
         display: none;
-    }
-}
-
-@media only screen and (max-width:320px) {
-    .flex-container > div {
-        width:320px;
     }
 }
