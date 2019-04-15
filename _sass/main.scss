@@ -41,14 +41,16 @@
     left: -50px;
     top: 150px;
     transform: rotate(90deg);
+    display: block;
 }
 
-@media only screen and (max-width:600px) {
-    /* For mobile phones: */
-    .flex-container > div {
-      width: 100%;
-    }
-  }
+.github-mark {
+    position: fixed;
+    right: 200px;
+    top: 102px;
+    max-width: 5%;
+    display: block;
+}
 
 @media only screen and (min-width:600px) {
 /* For mobile phones: */
@@ -57,8 +59,31 @@
     }
 }
 
+@media only screen and (max-width:600px) {
+    /* For mobile phones: */
+    .flex-container > div {
+      width: 100%;
+    }
+
+    .github-mark {
+        display: none;
+    }
+
+    .cherry-blossom {
+        display: none;
+    }
+  }
+
 @media only screen and (max-width:320px) {
     .flex-container > div {
         width:320px;
+    }
+
+    .github-mark {
+        display: none;
+    }
+
+    .cherry-blossom {
+        display: none;
     }
 }
