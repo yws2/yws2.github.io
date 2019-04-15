@@ -24,3 +24,6 @@ I will attain the highest physical and mental state.
 
 I will always strive for excellence in whatever I do.  
 무엇을 하든 우수한 성적을 내기 위해 항상 노력을 할 것이다. 
+
+I will realize the power of engineering.  
+엔지니어링의 힘이 무엇인지 알게 될 것이다. 

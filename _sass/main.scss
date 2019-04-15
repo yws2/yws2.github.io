@@ -36,6 +36,13 @@
     line-height: 1.6;
 }
 
+.cherry-blossom {
+    position: absolute;
+    left: -50px;
+    top: 150px;
+    transform: rotate(90deg);
+}
+
 @media only screen and (max-width:600px) {
     /* For mobile phones: */
     .flex-container > div {
