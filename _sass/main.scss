@@ -41,6 +41,7 @@
     left: -50px;
     top: 150px;
     transform: rotate(90deg);
+    display: block;
 }
 
 .github-mark {
@@ -48,7 +49,7 @@
     right: 200px;
     top: 102px;
     max-width: 5%;
-
+    display: block;
 }
 
 @media only screen and (max-width:600px) {
@@ -71,7 +72,7 @@
     .flex-container > div {
         width: 40vw;
     }
-    
+
     .github-mark {
         display: none;
     }
