@@ -28,5 +28,5 @@ I will always strive for excellence in whatever I do.
 I will realize the power of engineering.  
 엔지니어링의 힘이 무엇인지 알게 될 것이다. 
 
-My greatest joy will be my work and I will love my work. 
+My greatest joy will be my work and I will love my work.  
 일은 나에게 제일 큰 즐거움이 될 것이며 나는 나의 일을 사랑할 것이다.  
